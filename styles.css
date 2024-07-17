@@ -196,4 +196,8 @@ body{
         margin-left: 120px;
         width: auto;
     }
+
+    .form-row button{
+        margin-left: 120px;
+    }
 }
